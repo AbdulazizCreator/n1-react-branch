@@ -1,0 +1,36 @@
+.btn {
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-size: 20px; 
+}
+
+.btn-yellow {
+  background-color: yellow;
+}
+
+.btn-green {
+  background-color: green;
+  color: white;
+}
+
+.about-card {
+  border: 2px solid black;
+  width: 400px;
+  text-align: center;
+}
+
+.about-card__header__content {
+
+}
+
+.about-card__footer__title {
+  font-size: 25px;
+}
+
+.about-card--contact {
+  width: 600px;
+}
+
+.about-card__footer__title--contact {
+  font-size: 30px;
+}
